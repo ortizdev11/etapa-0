@@ -1,0 +1,10 @@
+function esPar(numero){
+    if(numero % 2 === 0){
+        console.log("es par");
+    }else{
+        console.log("es impar");
+    }
+}
+
+esPar(4);
+esPar(7);
