@@ -1,7 +1,7 @@
 {
   "name": "ejerciciosdecluade",
   "version": "1.0.0",
-  "description": "��f\u0000\r\u0000 \u0000",
+  "description": "Ejercicios de programación etapa 0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "dependencies": {
     "dayjs": "^1.11.23"
   }
