@@ -47,7 +47,7 @@ async function obtenerTodosPendientes(){
         let array = usuari.filter((usuario)=> !usuario.completed && usuario.userId === 1);
         console.log(array);
     }catch(error){
-        console.log("error:", error)
+        console.log("error:", error);
     };
 };
 
